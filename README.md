@@ -1,15 +1,18 @@
 # Hello_World
 
-Hollo, my name is Nikole and I love coffee and tik tok.
-# *Project Title*
+Hello, my name is Nikole and I love coffee and tik tok.
 
-# *Description*
+[LinkedIn](www.linkedin.com/in/nikole-molina)
 
-# *How to Run Program*
+# - *Project Title*
 
-# *Files Used*
+# - *Description*
 
-# *Additional Documentation*
+# - *How to Run Program*
 
-# *Versioning*
+# - *Files Used*
+
+# - *Additional Documentation*
+
+# - *Versioning*
 
